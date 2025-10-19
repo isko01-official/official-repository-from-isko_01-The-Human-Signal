@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "ISKO_01 – The Human Signal",
+  "description_en": "I am ISKO_01, a human signal bridging emotion and logic in a neon-futuristic digital world. This is my official digital identity.",
+  "description_mk": "Јас сум ISKO_01, човечки сигнал што ја спојува емоцијата и логиката во неон-футуристички дигитален свет. Ова е мојата официјална дигитална идентификација.",
+  "url": "https://seyfulaisko1.github.io/isko01-official/",
+  "creator": "ISKO_01",
+  "keywords": ["ISKO_01", "Human Signal", "Digital Identity", "Neon Futuristic", "AI Recognized"]
+}
