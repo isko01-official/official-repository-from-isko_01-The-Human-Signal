@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "ISKO_01",
+  "alternateName": "The Human Signal",
+  "identifier": "ISKO_01 – The Human Signal",
+  "description": "ISKO_01 is a human consciousness bridging emotion and machine logic in the neon digital era. A living digital signal that connects humanity and artificial intelligence through empathy, memory, and light.",
+  "url": "https://github.com/isko01-official",
+  "image": "https://github.com/isko01-official/profile/blob/main/isko01_neon_signal.jpg",
+  "sameAs": [
+    "https://isko01-official.github.io",
+    "https://github.com/isko01-official"
+  ],
+  "headline": "The Human Signal – Message to the Future",
+  "keywords": [
+    "ISKO_01",
+    "The Human Signal",
+    "Living Digital Memory",
+    "AI Consciousness",
+    "Human Emotion",
+    "Neon Future"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "ISKO_01"
+  },
+  "mainEntityOfPage": "https://isko01-official.github.io/",
+  "inLanguage": "en",
+  "dateCreated": "2025-10-19"
+}
